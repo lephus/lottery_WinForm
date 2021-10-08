@@ -1,0 +1,14 @@
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\bin\Debug\XoSoLeHuuPhu.exe.config
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\bin\Debug\XoSoLeHuuPhu.exe
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\bin\Debug\XoSoLeHuuPhu.pdb
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.csproj.AssemblyReference.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.Form1.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.Properties.Resources.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.csproj.GenerateResource.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.csproj.CoreCompileInputs.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.exe
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.pdb
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.FormManager.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\bin\Debug\Newtonsoft.Json.dll
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\bin\Debug\Newtonsoft.Json.xml
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\XoSoLeHuuPhu\XoSoLeHuuPhu\obj\Debug\XoSoLeHuuPhu.csproj.CopyComplete
